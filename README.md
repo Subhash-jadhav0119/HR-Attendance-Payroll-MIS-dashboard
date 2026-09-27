@@ -8,7 +8,7 @@ The dashboard is designed to provide HR teams and managers with a clear, consoli
 
 ## Dashboard Preview
 
-![HR Attendance & Payroll MIS Dashboard](./Dashboard_image.png)
+![HR Attendance & Payroll MIS Dashboard](./Dashboard_Image.png)
 
 ## Key Performance Indicators
 
